@@ -1,6 +1,6 @@
-# hotspot
+### Raspberry pi 3 open vpn hotspot
 
-shell script for setup and management of hotspot (hostapd) functions on rpi platform
+Shell script for setup and management of hotspot (hostapd) functions on rpi platform
 
 functions:
 
